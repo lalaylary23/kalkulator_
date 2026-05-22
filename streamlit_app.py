@@ -1,7 +1,8 @@
 import streamlit as st
 
 st.title("🎈 Project Kalkulator Larutan")
- import streamlit as st
+st.title
+import streamlit as st
 
 st.markdown("*Streamlit* is **really** ***cool***.")
 st.markdown('''
